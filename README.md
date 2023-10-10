@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acosh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acosh@deno/mod.js';
+import acosh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acosh@v0.1.1-deno/mod.js';
 ```
 
 #### acosh( x )
@@ -79,7 +79,7 @@ var v = acosh( 0.0 );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import acosh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acosh@deno/mod.js';
+import acosh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acosh@v0.1.1-deno/mod.js';
 
 var x = linspace( 1.0, 5.0, 100 );
 
