@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-01)
+## Unreleased (2025-04-05)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f7db171`](https://github.com/stdlib-js/stdlib/commit/f7db17180a75fd1c3b7f5311ded957d4cfca07f5) - **test:** add tests for IEEE 754-2019 compliance [(#6564)](https://github.com/stdlib-js/stdlib/pull/6564) _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`2decebf`](https://github.com/stdlib-js/stdlib/commit/2decebfef3381b37b7c84ebe6c4e35792d685e1e) - **chore:** update package meta data [(#6447)](https://github.com/stdlib-js/stdlib/pull/6447) _(by stdlib-bot)_
 -   [`d6e3fd4`](https://github.com/stdlib-js/stdlib/commit/d6e3fd4cd923481eeb8ca637cd6ec487ae5492f1) - **chore:** remove obsolete accuracy scripts in `acosh` [(#6409)](https://github.com/stdlib-js/stdlib/pull/6409) _(by Karan Anand)_
