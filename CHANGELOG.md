@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-06)
+## Unreleased (2025-05-07)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d5e319b`](https://github.com/stdlib-js/stdlib/commit/d5e319b49adacabbc2985d0889248593682ed731) - **chore:** use correct output policy _(by Karan Anand)_
 -   [`56388ac`](https://github.com/stdlib-js/stdlib/commit/56388aceeac1d76fd6f554c8871a55d908589415) - **chore:** add structured package data _(by Karan Anand)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`9211c88`](https://github.com/stdlib-js/stdlib/commit/9211c88ad8ecd436a2fb5311eb00ace0ac8d6f9d) - **test:** add tests for IEEE 754-2019 compliance [(#6561)](https://github.com/stdlib-js/stdlib/pull/6561) _(by Karan Anand, stdlib-bot)_
