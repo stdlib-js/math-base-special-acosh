@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`abf8e78`](https://github.com/stdlib-js/stdlib/commit/abf8e78e8a62c304451119dcfb41fcb5f9ebc6c5) - **test:** migrate `math/base/special/acosh` to ULP-based testing [(#11418)](https://github.com/stdlib-js/stdlib/pull/11418) _(by Gautam Kaushik)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gautam Kaushik
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.4">
 
 ## 0.2.4 (2026-02-08)
